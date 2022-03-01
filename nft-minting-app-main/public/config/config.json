@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x253fd7da5cdfbf0ad4e4d31fe008d193c0a77881",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x9454ff8c865894a791c10bb360a9482c0b22bcb4612d60545cac88187b851e0a",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "CSMC CLUB",
+  "SYMBOL": "CryptoSchmecker TEST",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/csmc-club",
+  "SHOW_BACKGROUND": true
+}
